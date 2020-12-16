@@ -1,8 +1,8 @@
-# About me!
+# ❤ About me!
 
 Hello! I'm Rainier. I'm a Gaming Content Creator on YouTube with 100+ subscribers. I am currently starting learning some coding.
 
-# Coding language that I learned/practicing
+# 🤔 Coding language that I learned/practicing
 - JavaScript
 - Discord.js
 - React
@@ -10,7 +10,7 @@ Hello! I'm Rainier. I'm a Gaming Content Creator on YouTube with 100+ subscriber
 - HTML
 - CSS
 
-# Social Medias
+# 📱 Social Medias
 - Twitter: https://www.twitter.com/RainierPlaysM
 - Instagram: https://www.instagram.com/rainierplaysm
 - Facebook: https://www.facebook.com/rainierplaysm
