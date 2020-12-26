@@ -16,9 +16,9 @@ Hello! I'm Rainier. I'm a Gaming Content Creator on YouTube with 100+ subscriber
 - Facebook: https://www.facebook.com/rainierplaysm
 - YouTube: https://www.youtube.com/c/RainierPlaysMinecraft
 
-[!shararawt](https://github-readme-stats.vercel.app/api?username=RainierPlaysM)]
+![shararawt](https://github-readme-stats.vercel.app/api?username=RainierPlaysM)]
 
-[sharawrt](https://github-readme-stats.vercel.app/api/top-langs/?username=RainierPlaysM)]
+![sharawrt](https://github-readme-stats.vercel.app/api/top-langs/?username=RainierPlaysM)]
 ts)
 
 <!--
